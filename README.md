@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/18162383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18162383" height="30" width="40" /></a>
 <a href="https://fb.com/avisheik.barua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avisheik.barua/" height="30" width="40" /></a>
 <a href="https://instagram.com/avisheik_barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avisheik_barua" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avisheik barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avisheik barua" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCysdAHJy-S97Gs-fE9GoDpA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avisheik barua" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
